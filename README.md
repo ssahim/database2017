@@ -7,7 +7,7 @@ In this repository you can download database lectures and other related material
 
 ## Lecture Slides
 
-[01 Lecture](Lectures/Chapter01.pdf)
+[01 Lecture](Chapter01.pdf)
 
 [02 Lecture](Lectures/Chapter02.pdf)
 
