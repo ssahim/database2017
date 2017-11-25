@@ -29,5 +29,5 @@ Please submit your solution before the class.
 
 ## Reference Books
 
-1. [Database Systems - The Complete Book (2nd Edition)](ref/complete)
-2. [Fundamentals of Database Systems](ref/fundamental)
+1. [Database Systems - The Complete Book (2nd Edition)](ref/complete.pdf)
+2. [Fundamentals of Database Systems](ref/fundamental.pdf)
