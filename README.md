@@ -21,6 +21,7 @@ In this repository you can download database lectures and other related material
 1. [Exercise 1.](Lectures/Ex1.pdf)
 
 Due Date: 02.12.2017
+
 Submit Email: dbcskdr17@gmail.com
 
 Please submit your solution before the class.
