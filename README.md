@@ -31,3 +31,7 @@ Please submit your solution before the class.
 
 1. [Database Systems - The Complete Book (2nd Edition)](ref/complete.pdf)
 2. [Fundamentals of Database Systems](ref/fundamental.pdf)
+
+## Example Database
+
+1. [World Database](ref/world.sql)
