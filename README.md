@@ -14,6 +14,7 @@ In this repository you can download database lectures and other related material
 [03 Lecture](Chapter03.pdf)
 
 [04 Lecture](Lectures/04-Lecture.pdf)
+[05 Lecture](DBMS_2_ER.pdf)
 
 
 ## Exercises
@@ -21,6 +22,14 @@ In this repository you can download database lectures and other related material
 1. [Exercise 1.](Lectures/Ex1.pdf)
 
 Due Date: 02.12.2017
+
+Submit Email: dbcskdr17@gmail.com
+
+Please submit your solution before the class.
+
+2. [Exercise 2.](ex/Ex2.pdf)
+
+Due Date: 09.12.2017
 
 Submit Email: dbcskdr17@gmail.com
 
