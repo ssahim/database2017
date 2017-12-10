@@ -14,7 +14,8 @@ In this repository you can download database lectures and other related material
 [03 Lecture](Chapter03.pdf)
 
 [04 Lecture](Lectures/04-Lecture.pdf)
-[05 Lecture](DBMS_2_ER.pdf)
+
+[05 Lecture](Lectures/DBMS_3_SQL.pdf)
 
 
 ## Exercises
