@@ -3,7 +3,7 @@ In this repository you can download database lectures and other related material
 
 ## **Midterm Results**
 
-[Result Sheet](grades.pdf)
+[Midterm Result Sheet](grades1.pdf)
 
 
 * Thursday, 16.11.2017
